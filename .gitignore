@@ -28,3 +28,6 @@ hs_err_pid*
 !/LOG_PATH_IS_UNDEFINED/
 !/.idea/
 !/eshop-inventor.iml
+!/target/
+!/.idea/
+target/generated-sources/
